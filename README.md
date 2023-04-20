@@ -6,7 +6,7 @@ monero-vanity-wallet is simple tool to add custom text to the end of your Monero
 
 Why the end and not the beginning? 
 
-Because the first character of a Monero wallet is always a "4" usually followed by a number or an "A". 
+Because the first character of a Monero wallet is always a "4", usually followed by a number or an "A". 
 
 Characters don't get truly random until a few characters into the wallet address, so adding the custom text to the end makes the most sense.
 
