@@ -2,7 +2,7 @@
 ![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![Python 3.10.9+](https://img.shields.io/badge/Python-3.10.9+-3776ab.svg)
 
-monero-vanity-wallet is simple tool to add custom text to the end of your Monero wallet.
+monero-vanity-wallet is simple tool to add custom text to the end of your Monero wallet. I made it because I didn't see any other projects on GitHub written in Python that do this. 
 
 Why the end and not the beginning? 
 
@@ -36,7 +36,7 @@ If we assume 30 wallets/min are generated:
 * 4 custom characters =  7 months to generate
 * 5 custom characters =  35 years to generate
 
-This vanity wallet generate is not the fastest (it uses the [Monero CLI Wallet](https://www.getmonero.org/downloads/#cli)), but it is great for generating wallets if you just want a few custom characters at the end (for example: XMR).
+This vanity wallet generator is not the fastest (it uses the [Monero CLI Wallet](https://www.getmonero.org/downloads/#cli)), but it is great for generating wallets if you just want a few custom characters at the end (for example: XMR).
 
 
 ## Features
