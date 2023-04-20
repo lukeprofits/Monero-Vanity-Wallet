@@ -13,6 +13,8 @@ XMR: `4At3X5rvVypTofgmueN9s9QtrzdRe5BueFrskAZi17BoYbhzysozzoMFB6zWnTKdGC6AxEAbEE
 
 ## Features
 * Lets you type in custom text and generates a Monero wallet with the custom text at the end. 
+* Convenient .bat launcher
+* Cool Monero orange and white color scheme
 
 
 ## Requirements
