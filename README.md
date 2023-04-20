@@ -2,7 +2,9 @@
 ![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![Python 3.10.9+](https://img.shields.io/badge/Python-3.10.9+-3776ab.svg)
 
-monero-vanity-wallet is simple tool to add custom text to the end of your Monero wallet. I made it because I didn't see any other projects on GitHub written in Python that do this. 
+monero-vanity-wallet is simple tool to add custom text to the end of your Monero wallet. 
+
+I made it because I didn't see any other projects on GitHub written in Python that do this. 
 
 Why the end and not the beginning? 
 
