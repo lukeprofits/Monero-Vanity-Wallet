@@ -4,8 +4,6 @@
 
 monero-vanity-wallet is simple tool to add custom text to the end of your Monero wallet. 
 
-I made it because I didn't see any other projects on GitHub written in Python that do this. 
-
 Why the end and not the beginning? 
 
 Because the first character of a Monero wallet is always a "4", usually followed by a number or an "A". 
