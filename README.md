@@ -11,6 +11,19 @@ If you use this, throw me some XMR (even if it's just a few cents)
 XMR: `4At3X5rvVypTofgmueN9s9QtrzdRe5BueFrskAZi17BoYbhzysozzoMFB6zWnTKdGC6AxEAbEE5czFR3hbEEJbsm4hCeX2S`
 
 
+# Speed
+Monero uses Base58, so there are 58 possibilities for each character, two of which are correct ("A" or "a"). 
+If we assume 30 wallets/min are generated:
+
+* 1 custom character  = 2 minutes to generate
+* 2 custom characters =   2 hours to generate
+* 3 custom characters =    4 days to generate
+* 4 custom characters =  7 months to generate
+* 5 custom characters =  35 years to generate
+
+This vanity wallet generate is not the fastest, but it is great for generating wallets if you just want a few custom characters (for example: XMR)
+
+
 ## Features
 * Lets you type in custom text and generates a Monero wallet with the custom text at the end. 
 * Convenient .bat launcher
