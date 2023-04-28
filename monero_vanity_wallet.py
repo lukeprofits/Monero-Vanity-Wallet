@@ -47,7 +47,7 @@ def make_wallet():
     except:
         pass
     # Generate a new wallet using monero-wallet-cli
-    command = f"{monero_wallet_cli_path} --generate-new-wallet {os.path.join(wallet_file_path, wallet_name)} --password '' --mnemonic-language English --command exit"
+    command = f"{monero_wallet_cli_path} --generate-new-wallet {os.path.join(wallet_file_path, wallet_name)} --mnemonic-language English --command exit"
     result = subprocess.run(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
     worked_check = result.returncode
     if worked_check == 0:
