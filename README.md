@@ -1,6 +1,6 @@
 # monero-vanity-wallet
 ![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
-![Python 3.10.9+](https://img.shields.io/badge/Python-3.10.9+-3776ab.svg)
+![Python 3.8+](https://img.shields.io/badge/Python-3.10.9+-3776ab.svg)
 
 monero-vanity-wallet is simple tool to add custom text to the end of your Monero wallet. 
 
@@ -12,7 +12,7 @@ Characters don't get truly random until a few characters into the wallet address
 
 
 # How To Use:
-* Make sure you have [Python 3.10.9](https://www.python.org/downloads/) or newer installed
+* Make sure you have [Python 3.8](https://www.python.org/downloads/) or newer installed
 * Download the files in this repo and put them in a folder
 * Download the [Monero CLI Wallet](https://www.getmonero.org/downloads/#cli), extract the files from the .zip and put them in the same folder
 * Double click the "START_VANITY_GENERATOR.bat" file, or open your console and enter the command: `python monero_vanity_wallet.py`
@@ -46,7 +46,7 @@ This vanity wallet generator is not the fastest (it uses the [Monero CLI Wallet]
 
 
 ## Requirements
-* [Python 3.10.9](https://www.python.org/downloads/) or above
+* [Python 3.8](https://www.python.org/downloads/) or above
 * [Monero CLI Wallet](https://www.getmonero.org/downloads/#cli)
 
 
